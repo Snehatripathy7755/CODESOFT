@@ -1,5 +1,5 @@
 # CODESOFT PROJECT
-<big>Owner - Sneha Tripathy</big>
+Owner - <big>Sneha Tripathy</big>
 <br>
 # The 1st project is on To Do List
 <br>
