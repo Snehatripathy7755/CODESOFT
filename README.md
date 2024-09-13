@@ -32,3 +32,15 @@ specify the length and complexity of the password.
 The user need to input the desired length of the password they need  
 after password generator will process and give the password. 
 <br>
+
+# The 4th project is on Rock Paper Scissors
+<br>
+GAME RULES:-
+Rock beats Scissors.
+Scissors beats Paper.
+Paper beats Rock.
+<br>
+Take User Input:-
+Prompt the user to enter their choice (Rock, Paper, or Scissors).
+After that the computer will generate its choice & then as per the rules result will be shown.
+The winner will get 1 point & the other one will get 0 .
